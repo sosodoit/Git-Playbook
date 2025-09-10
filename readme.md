@@ -83,7 +83,7 @@ $ git push
 
 ```bash
 $ git checkout -b 브랜치명   
-$ --set -upstream
+$ git push --set-upstream origin 브랜치명
 $ git push origin 브랜치명
 ```
 
@@ -129,5 +129,7 @@ $ git config --global core.autocrlf true
 ```
 
 #### 깃허브에서 pull request 후 병합할 때
-- 테스트중
+[충동발생시](https://chaeyoung2.tistory.com/61)
 
+#### 이슈 사용법
+[이슈사용법](https://velog.io/@dohaeng0/GitHub-Project-Issue-%ED%99%9C%EC%9A%A9)
