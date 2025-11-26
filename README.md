@@ -1,8 +1,8 @@
 <div align="center"><h1>🧐 상황별 Git 명령어 정리</h1></div><br>
 
-- git 최초 연동 후 작업할 때
-- git 클론 후 작업할 때
-- 브랜치 생성하고 개발하고 커밋하고 푸쉬하고 PR 요청하고 브랜치 삭제까지
+- [git 최초 연동 후 작업할 때](상황별깃명령어/원격저장소연결하기.md)
+- git 클론 후 작업할 때(상황별깃명령어/원격저장소연결하기.md)
+- 브랜치 생성하고 개발하고 커밋하고 푸쉬하고 PR 요청하고 브랜치 삭제까지(상황별깃명령어/자주사용하는명령어.md)
 
 ## **브랜치랑 관련된**
 #### 새로운 브랜치 생성할 때
@@ -58,4 +58,5 @@ $ git config --global core.autocrlf true
 [충동발생시](https://chaeyoung2.tistory.com/61)
 
 #### 이슈 사용법
+
 [이슈사용법](https://velog.io/@dohaeng0/GitHub-Project-Issue-%ED%99%9C%EC%9A%A9)
